@@ -1,1 +1,2 @@
-# git-remote-practice
+# Git Remote Practice
+This is for practicing Git and Github
